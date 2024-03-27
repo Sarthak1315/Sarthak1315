@@ -22,3 +22,11 @@ While my professional experience is yet to blossom, I am driven to utilize my sk
 - 😄 Pronouns: He/Him
 
 I'm enthusiastic about connecting with like-minded developers, exchanging ideas, and embarking on collaborative endeavors. Feel free to drop me a message—I'm always up for a chat and excited about the possibilities that lie ahead! 😊
+
+
+# You can connect with me on:
+
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarthak1315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-patel-sp1315/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sarthak_13/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sarthakpatel@gmail.com)
