@@ -1,3 +1,4 @@
+[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
 # I’m Sarthak Patel!
 
 I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
