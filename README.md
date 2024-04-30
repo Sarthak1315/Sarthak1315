@@ -2,7 +2,7 @@
 
 I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
 While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.
-
+<br><br>
 # 💫 About Me:
 - 🔭 I’m currently working on [My Uploads](https://myuploads.thetechocean.me)
 
@@ -22,7 +22,7 @@ While my professional experience is yet to blossom, I am driven to utilize my sk
 I'm enthusiastic about connecting with like-minded developers, exchanging ideas, and embarking on collaborative endeavors. Feel free to drop me a message—I'm always up for a chat and excited about the possibilities that lie ahead! 😊
 
 
-
+<br><br>
 ## 💻 Tech Stack:
 <p align="left" style="text-decoration: none;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&ensp;
@@ -47,7 +47,7 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
   </a>
 </p>
 
-
+<br><br>
 ## 🌐 Socials:
 
 <p align="left">
@@ -61,23 +61,22 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
 </p>
 
 
-
+<br><br>
 ## 📊 GitHub Stats:
 <!---![](https://github-readme-stats.vercel.app/api?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1315&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+<br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sarthak1315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
-
+<br><br>
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sarthak1315&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
