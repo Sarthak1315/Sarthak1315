@@ -24,7 +24,7 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
 
 
 ## 💻 Tech Stack:
-<p align="left">
+<p align="left" style="text-decoration: none;">
   <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   </a> 
