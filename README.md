@@ -63,7 +63,7 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+--![](https://github-readme-stats.vercel.app/api?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1315&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
