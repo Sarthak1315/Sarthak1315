@@ -1,11 +1,11 @@
-[![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
+![MasterHead](https://storage.googleapis.com/myuploads-ad647.appspot.com/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">I’m Sarthak Patel!</h1>
 
 <h3 align="center">I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
 While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.</h3>
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
+<img align="right" alt="coding" width="400" src="https://storage.googleapis.com/myuploads-ad647.appspot.com/Developer%20activity-bro.svg">
 - 🔭 I’m currently working on [My Uploads](https://myuploads.thetechocean.me)
 
 - 🌱 I’m currently learning **ASP.NET**
