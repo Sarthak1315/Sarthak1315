@@ -6,6 +6,7 @@ While my professional experience is yet to blossom, I am driven to utilize my sk
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
 <img align="right" alt="coding" width="400" src="https://storage.googleapis.com/myuploads-ad647.appspot.com/Developer%20activity-bro.svg">
+
 - 🔭 I’m currently working on [My Uploads](https://myuploads.thetechocean.me)
 
 - 🌱 I’m currently learning **ASP.NET**
