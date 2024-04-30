@@ -1,12 +1,11 @@
 [![MasterHead](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://simplysabir.io)
-# I’m Sarthak Patel!
+<h1 align="center">I’m Sarthak Patel!</h1>
 
-I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
-While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.
+<h3 align="center">I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
+While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.</h3>
 <br><br>
-
-# 💫 About Me:
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 - 🔭 I’m currently working on [My Uploads](https://myuploads.thetechocean.me)
 
 - 🌱 I’m currently learning **ASP.NET**
@@ -82,4 +81,4 @@ I'm enthusiastic about connecting with like-minded developers, exchanging ideas,
 ![](https://github-contributor-stats.vercel.app/api?username=Sarthak1315&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
+
