@@ -11,7 +11,7 @@ While my professional experience is yet to blossom, I am driven to utilize my sk
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 👨‍💻 All of my projects are available at [Sarthak](https://sarthak135.github.io)
+- 👨‍💻 All of my projects are available at [Sarthak](https://sarthak1315.github.io)
 
 - 💬 Ask me about **ASP.NET OR PHP**
 
