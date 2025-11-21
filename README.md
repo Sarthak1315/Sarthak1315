@@ -1,90 +1,205 @@
 ![MasterHead](https://storage.googleapis.com/myuploads-ad647.appspot.com/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">I’m Sarthak Patel!</h1>
 
-<h3 align="center">I'm a passionate BSc IT student with a keen interest in Software Development. My journey has equipped me with proficiency in various programming languages and technologies
-While my professional experience is yet to blossom, I am driven to utilize my skills and knowledge to craft immersive and functional websites. Renowned for my agility in learning and adeptness in problem-solving, I thrive in dynamic environments and embrace the challenges of mastering new technologies and programming paradigms.</h3>
-<br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak1315&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak1315" /> </p>
-<img align="right" alt="coding" width="400" src="https://storage.googleapis.com/myuploads-ad647.appspot.com/Developer%20activity-bro.svg">
+<h1 align="center">Hi, I'm Sarthak Patel</h1>
+<h3 align="center">Full-Stack .NET Developer | AI Engineer | Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on [Khana Khazana](http://sarthak.runasp.net/)
+---
 
-- 🌱 I’m currently learning **ASP.NET**
+## 👨‍💻 About Me
 
-- 👨‍💻 All of my projects are available at [Sarthak](https://sarthak1315.github.io)
+I am a **B.Sc. IT graduate** and a passionate developer focused on building **real-world, production-grade software** in .NET, AI, and automation.
 
-- 💬 Ask me about **ASP.NET OR PHP**
+My experience spans across:
+- Full-stack **.NET development**  
+- Custom UI engineering (WinForms Controls, .NET Components)  
+- **AI automation systems** & agent development  
+- **Cybersecurity fundamentals**, threat analysis, reversing basics  
+- **DevOps basics**, AWS, DNS, deployments  
+- Backend systems, API development & system design  
 
-- 📫 How to reach me **work.sarthakpatel@gmail.com**
+I love solving practical industry problems through clean, scalable code.
 
-- 📄 Know about my experiences [Resume](https://storage.googleapis.com/myuploads-ad647.appspot.com/Certificate/Sarthak_Patel_Resume.pdf)
+---
+
+# 🧰 Tech Stack
+
+**Languages:**  
+C, C#, Java, Python, PHP, JavaScript, HTML, CSS
+
+**Frameworks & Tools:**  
+.NET, ASP.NET MVC, WinForms (Custom UI), Bootstrap, Postman, Figma, Adobe XD, Photoshop
+
+**Databases:**  
+MS SQL, MySQL, Oracle
+
+**DevOps & Cloud:**  
+AWS basics, GCP, DNS management, Linux, GitHub Actions, Hosting & deployment
+
+---
+
+# 🚀 Major Projects
+
+### 🟦 **Diamond Job Work Management System (.NET)**
+A full industry-grade solution for the diamond job-work sector.
+
+**Highlights:**  
+- Custom-built **WinForms UI Components**  
+- Job entry, tracking, billing & salary automation  
+- Multi-user architecture  
+- Performance-optimized SQL operations  
+- Designed for real diamond job-work workflows  
+
+**Tech:** C#, .NET, WinForms, MS SQL  
+![Diamond Software Placeholder](#diamond_jobwork_image)
+
+---
+
+### 🤖 **Content-Factory-AI**
+A multi-agent AI content system supporting:
+- Content automation  
+- Fact-checking  
+- SEO enhancement  
+- AI pipelines  
+
+![Content Factory AI Placeholder](#content_factory_ai_image)
+
+---
+
+### 🧠 **JARVIS – Personal AI Assistant**
+A custom-built AI assistant for:
+- System automation  
+- Developer productivity  
+- File operations  
+- Web/API integrations  
+
+![Jarvis Placeholder](#jarvis_ai_image)
+
+---
+
+### 🟧 **C# PHP Server (Custom)**
+A lightweight **PHP-like backend** built in C# (.NET EXE) with:
+- Routing  
+- Template rendering  
+- API handling  
+
+![PHP Server Placeholder](#php_server_image)
+
+---
+
+# 🛡 Cybersecurity Experience
+
+I actively explore:
+- Secure coding  
+- Threat analysis  
+- Network security  
+- Ethical hacking fundamentals  
+- Reverse engineering basics  
+- Digital forensics concepts  
+
+I have attended **multiple cybersecurity workshops & events** to strengthen practical skills.
+
+![Cybersecurity Certificate Placeholder](#cybersecurity_certificate_image)
+
+---
+
+# 🎓 Workshops & Hands-On Training
+
+I regularly participate in AI, cybersecurity, and drone-technology workshops.  
+Each event includes a **short description + LinkedIn post link** so anyone can explore further.
+
+---
+
+## 🚁 **1. Drone Technology Bootcamp — SVNIT / SwaYaan Programme**
+**Topics Covered:**  
+Python for drones • Calibration • GIS mapping • Flight mission planning • Drone assembly  
+
+🔗 Full Workshop Post:  
+https://www.linkedin.com/posts/sarthak-patel-sp1315_drones-technology-python-activity-7304874120935047168-gYE3  
+
+**Images:**  
+![Drone Bootcamp Photo](#drone_bootcamp_image)  
+![Drone Workshop Activity](#drone_activity_image)
+
+---
+
+## 🔓 **2. Ethical Hacking Workshop — IIT Bombay Techfest**
+**Practicals:**  
+SQL Injection • Password cracking • Live hacking demos • Flipper Zero  
+
+🔗 Details on LinkedIn Timeline  
+![Ethical Hacking Workshop Photo](#ethical_hacking_image)
+
+---
+
+## 🎤 **3. AI Voice Agent Workshop — VideoSDK Surat**
+**Focus:**  
+Real-time AI voice agents • Low-latency infra • Practical AI use cases  
+
+🔗 Full Workshop Post:  
+https://www.linkedin.com/posts/video-sdk_what-an-evening-in-surat-we-had-a-fantastic-activity-7327595947134193664-yTQv  
+
+**Images:**  
+![AI Workshop Photo](#ai_workshop_image)
+
+---
+
+## 🐞 **4. Malware Forensics & Reverse Engineering — THM Surat**
+**Hands-On:**  
+Malware breakdown • Reverse engineering basics • Automotive hacking  
+
+🔗 Details on LinkedIn Timeline  
+![Reverse Engineering Photo](#reverse_engineering_image)
 
 
-I'm enthusiastic about connecting with like-minded developers, exchanging ideas, and embarking on collaborative endeavors. Feel free to drop me a message—I'm always up for a chat and excited about the possibilities that lie ahead! 😊
+---
+
+## 🤖 **5. RAG & GenAI Workshop — IEEE SCET SB**
+**Topics:**  
+RAG pipelines • LLM internals • Production AI workflows  
+
+🔗 Details on LinkedIn Timeline  
+![RAG Workshop Photo](#rag_workshop_image)
+
+---
+
+## 🛡 **6. Cyber Security Threat Landscape — SGCCI Surat**
+**Topics:**  
+Cyber threats • Digital forensics • Incident response • Attack prevention  
+
+🔗 Details on LinkedIn Timeline  
+![Cybersecurity Event Photo](#cybersecurity_event_image)
+
+---
 
 
-<br><br>
-## 💻 Tech Stack:
-<p align="left" style="text-decoration: none;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&ensp;
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>&ensp;
-<img src="https://github.com/dotnet/brand/blob/main/logo/dotnet-logo.svg" alt="dotnet" width="40" height="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&ensp;
-<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="photoshop" width="40" height="40"/>&ensp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&ensp;
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>&ensp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&ensp;
-  </a>
-</p>
-<br><br>
+# 🌍 Socials
 
-## 🏆 Achievement :
-<p align="left" style="text-decoration: none;">
-  <img src="https://storage.googleapis.com/myuploads-ad647.appspot.com/Certificate/cybersecurity-roles-processes-operating-system-security.png" alt="cybersecurity-roles-processes-operating-system-security" width="250" height="250"/>&ensp;
-</p>
-<br><br>
-
-<br><br>
-## 🌐 Socials:
+🔗 **LinkedIn (full activity timeline):**  
+https://www.linkedin.com/in/sarthak-patel-sp1315/
 
 <p align="left">
-<a href="https://linkedin.com/in/sarthak-patel-sp1315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-patel-sp1315" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21481110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21481110" height="30" width="40" /></a>
-<a href="https://fb.com/sarthak-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarthak-patel" height="30" width="40" /></a>
-<a href="https://instagram.com/___sarthak_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___sarthak_13" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@thetechocean13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@thetechocean13" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sarthakpatel1315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthakpatel1315" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarthak1315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarthak1315" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarthak-patel-sp1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
+<a href="https://instagram.com/___sarthak_13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>
+<a href="https://www.youtube.com/@thetechocean13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>
+<a href="https://stackoverflow.com/users/21481110"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/></a>
+<a href="https://leetcode.com/sarthak1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>
+<a href="https://www.hackerrank.com/sarthakpatel1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>
 </p>
 
+---
 
-<br><br>
-## 📊 GitHub Stats:
-<!---![](https://github-readme-stats.vercel.app/api?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>-->
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1315&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sarthak1315&theme=dark&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak1315&theme=dark&layout=compact&hide_border=false)
 
-<br><br>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sarthak1315&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
+### Connect with Sarthak Patel:
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sarthak1315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-patel-sp1315/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___sarthak_13/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.sarthakpatel@gmail.com)
 
-<br><br>
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sarthak1315&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
+---
