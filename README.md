@@ -177,12 +177,12 @@ Cyber threats • Digital forensics • Incident response • Attack prevention
 
 
 <p align="left">
-<a href="https://linkedin.com/in/sarthak-patel-sp1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>&nbsp;
-<a href="https://instagram.com/___sarthak_13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>&nbsp;
-<a href="https://www.youtube.com/@thetechocean13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/21481110"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/></a>&nbsp;
-<a href="https://leetcode.com/sarthak1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;
-<a href="https://www.hackerrank.com/sarthakpatel1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;
+<a href="https://linkedin.com/in/sarthak-patel-sp1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/___sarthak_13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@thetechocean13"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/21481110"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/sarthak1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/sarthakpatel1315"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ---
